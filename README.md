@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- The Met Museum's landing page project is a modern web page developed using HTML and SCSS, and it is also responsive for mobile devices.
+- This landing page offers visitors an unparalleled offline and online museum tour experience, allowing them to immerse themselves in the world of art and cultural heritage at The Met without leaving home.
+
+- [DEMO LINK](https://Valentyn-Bilyk.github.io/met-lending/)
